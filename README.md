@@ -1,4 +1,4 @@
-## Welcome to Publication Repository of Sarada Hettiarachchi (ED Sarada)
+## Welcome to pub.edsarada.com
 
 All the publications released by Sarada Hettiarachchi will be listed in this page for your references.
 
